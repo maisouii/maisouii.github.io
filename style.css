@@ -5,7 +5,8 @@
 
 body {
 	background-attachment: fixed;
-	background-image: url('homepage_platzhalter.jpg');
+	background-color: #000;
+	background-image: url('homepage_platzhalter_sm.jpg');
 	background-position: center;
 	background-repeat: none;
 }
